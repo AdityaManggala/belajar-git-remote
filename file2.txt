@@ -1,3 +1,4 @@
 ini file 2
 ini feature 2
 ini feature A
+ini feature c
